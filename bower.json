@@ -1,0 +1,26 @@
+{
+  "name": "admin",
+  "homepage": "http://www.imsmaxims.com",
+  "authors": [
+    "Carlos De Oliveira <carlos.deoliveira@imsmaxims.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "^1.3.2",
+    "bootstrap": "^3.3.6",
+    "angular-animate": "^1.5.5",
+    "angular-ui-router": "^0.2.18",
+    "angular-route": "^1.5.5",
+    "angular-cookies": "^1.5.5"
+  }
+}

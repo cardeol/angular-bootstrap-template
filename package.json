@@ -1,0 +1,26 @@
+{
+  "name": "IMSAdmin",
+  "version": "1.0.0",
+  "description": "ngBootstrap Boiler Template",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^2.0.7",
+    "gulp-uglify": "^1.5.3",
+    "gulp-usemin": "^0.3.23"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Carlos De Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
